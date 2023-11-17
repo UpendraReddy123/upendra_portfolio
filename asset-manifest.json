@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/upendra_portfolio/static/css/main.7fa9009b.css",
+    "main.js": "/upendra_portfolio/static/js/main.a80ef427.js",
+    "static/js/787.7b80c7bf.chunk.js": "/upendra_portfolio/static/js/787.7b80c7bf.chunk.js",
+    "static/media/Anime.gif": "/upendra_portfolio/static/media/Anime.f372ef867ab6dc71a52b.gif",
+    "static/media/hakerRank.png": "/upendra_portfolio/static/media/hakerRank.00b5ff3a5b83e1de407f.png",
+    "static/media/sort.png": "/upendra_portfolio/static/media/sort.7c251295853d45d1bee8.png",
+    "static/media/S Upendra Reddy_Resume.pdf": "/upendra_portfolio/static/media/S Upendra Reddy_Resume.b2b9cb20d3addc6e3f3b.pdf",
+    "static/media/maze.png": "/upendra_portfolio/static/media/maze.632f8eda485801d62f4b.png",
+    "static/media/java.png": "/upendra_portfolio/static/media/java.47f0b0f5346ff0c2f1c4.png",
+    "static/media/DBMS.png": "/upendra_portfolio/static/media/DBMS.0e8213b66842b684d17f.png",
+    "static/media/DSA.png": "/upendra_portfolio/static/media/DSA.cdc9f8c2ca7755505f83.png",
+    "static/media/portfolio.png": "/upendra_portfolio/static/media/portfolio.26aaf577b9620dbe185b.png",
+    "static/media/webDev.jpeg": "/upendra_portfolio/static/media/webDev.055258c3bbf564ec572e.jpeg",
+    "static/media/contactAnime1.gif": "/upendra_portfolio/static/media/contactAnime1.5927fecd784462cf089a.gif",
+    "static/media/Rubicon.jpeg": "/upendra_portfolio/static/media/Rubicon.6779340ec148516f0725.jpeg",
+    "static/media/weather.png": "/upendra_portfolio/static/media/weather.2df79040795e475a8919.png",
+    "static/media/git.png": "/upendra_portfolio/static/media/git.1584e59becd3997afd2c.png",
+    "index.html": "/upendra_portfolio/index.html",
+    "main.7fa9009b.css.map": "/upendra_portfolio/static/css/main.7fa9009b.css.map",
+    "main.a80ef427.js.map": "/upendra_portfolio/static/js/main.a80ef427.js.map",
+    "787.7b80c7bf.chunk.js.map": "/upendra_portfolio/static/js/787.7b80c7bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fa9009b.css",
+    "static/js/main.a80ef427.js"
+  ]
+}
