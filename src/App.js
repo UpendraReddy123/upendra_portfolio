@@ -1,23 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './Components/NavBar/Navbar';
 
 function App() {
+
+  const divStyle = {
+    backgroundImage: 'url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREh2LWVxWfHCCHiSBNd6pjGu0n3wKfIEVPF7Oc2A2E7xQH_AZP_L2upGyMzaXF8qFcnXw&usqp=CAU")',
+    backgroundSize: 'cover',
+    backgroundRepeat: 'no-repeat'
+  };
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App" style={divStyle}>
+        <Navbar/>
     </div>
   );
 }

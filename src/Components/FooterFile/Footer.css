@@ -1,0 +1,14 @@
+.footerBox{
+    margin-top:100px;
+    align-items: center;
+    background-color: rgb(172, 184, 212);
+    border: solid 2px black;
+}
+.iconsClass{
+    display: flex;    
+    justify-content: space-around;
+}
+
+.sclIcn{
+    height: 30px;
+}

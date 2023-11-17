@@ -1,0 +1,22 @@
+.navName{
+    text-decoration: none;
+    color: white;
+}
+.nav-item{
+   margin: 10px;   
+}
+
+
+.navbar-nav{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.cntClass{
+    width: 100%;
+}
+
+
+
+
